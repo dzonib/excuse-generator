@@ -7,7 +7,7 @@ function App() {
   const intro = [
     "Sorry I can't come ",
     'Please forgive my absence ',
-    'This is going to sound crazy but',
+    'This is going to sound crazy but ',
     'Get this: ',
     "I can't go because ",
     'I know you are going to hate me, but ',
@@ -27,7 +27,7 @@ function App() {
     'a sad clown ',
     'a kid from Air Bud ',
     'a professional cricket team ',
-    'my tinder date',
+    'my tinder date ',
   ]
 
   const delay = [
